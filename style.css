@@ -220,13 +220,16 @@
 
     #img1
     {
-        /* background-image: url('images/icon-share.svg'); */
-        /* position: relative; */
         top: -25%;
         float: right;
         margin-right: 23%;
         padding: 1px 1px;
     }
+}
 
-    
-    }
+.attribution
+{
+    position: absolute;
+    bottom: 0%;
+    font-size: larger;
+}

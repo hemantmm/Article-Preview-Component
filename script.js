@@ -1,10 +1,3 @@
-// let images1 =document.querySelector('#images');
-// let btn = document.querySelector('#btn1');
-
-// images1.addEventListener('click',()=>{
-//     img.src='images/icon-twitter.svg';
-// })
-
 
 var a;
 function show_hide(){
